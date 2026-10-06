@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "1.0.5",
-  "apkUrl": "https://github.com/fearmairo-design/ClioGram-updates/releases/download/v1.0.5/cliogram-18.apk",
-  "notes": "TDLib 1.8.67, автообновления, вход по QR-коду, канал доставки кода"
+  "versionCode": 19,
+  "versionName": "1.0.6",
+  "apkUrl": "https://github.com/fearmairo-design/ClioGram-updates/releases/download/v1.0.6/cliogram-19.apk",
+  "notes": "Кнопка «Открыть Telegram и взять код», новый API-ключ приложения"
 }
